@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="pesquisar_lembretes">Pesquisar lembretes</string>
+    <string name="filtrar_por_data">Filtrar por data</string>
+    <string name="reload">Reload</string>
+    <string name="adicionar_reminder">Adicionar</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:menuCategory="system">
+        <item
+            android:title="@string/reload"
+            android:id="@+id/reaload"/>
+        <item
+            android:title="@string/adicionar_reminder"
+            android:id="@+id/addReminder" />
+    </group>
+</menu>
